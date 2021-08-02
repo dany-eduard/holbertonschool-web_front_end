@@ -1,0 +1,13 @@
+/* Using mixing */
+@mixin margin_sides($left, $right) {
+  margin-left: $left;
+  margin-right: $right;
+}
+
+body {
+  @include margin_sides(10px, 10px);
+}
+
+div {
+  @include margin_sides(15px, 15px);
+}
