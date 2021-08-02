@@ -1,0 +1,16 @@
+/* Using more color's variables */
+
+$color_font: #3d3d3d;
+$bg_color: #6d6d6d;
+
+body {
+  color: $color_font;
+}
+
+p {
+  color: $color_font;
+}
+
+h2 {
+  background-color: $bg_color;
+}
