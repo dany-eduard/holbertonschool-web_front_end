@@ -1,0 +1,6 @@
+/* For cycles */
+@for $item from 1 through 5 {
+  h#{$item} {
+    font-size: #{$item}px;
+  }
+}
