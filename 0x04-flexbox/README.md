@@ -2,8 +2,6 @@
 
 ## Resources
 
-<h2>Resources</h2>
-
 <ul>
 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" title="A Complete Guide to Flexbox | CSS-Tricks" target="_blank">A Complete Guide to Flexbox | CSS-Tricks</a></li>
 <li><a href="http://flexboxfroggy.com/#es" title="Flexbox Froggy - A game for learning CSS flexbox" target="_blank">Flexbox Froggy - A game for learning CSS flexbox</a> </li>
